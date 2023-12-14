@@ -1,0 +1,16 @@
+crear archivo vacio: type nul > your_file.txt
+
+para regresar a la carpeta anterior: ..
+
+para ir a una carpeta: cd
+
+para crear el json de una vez: npm init -y
+
+--legacy-peer-deps: Esta bandera se usa para permitir que NPM instale paquetes que presenten advertencias de dependencias obsoletas. Es útil si trabajas con paquetes que aún no han actualizado sus dependencias.
+
+--prefer-offline: Esta bandera se usa para preferir las versiones descargadas de los paquetes, incluso si están desactualizadas, en lugar de descargar las últimas versiones desde el registro.
+
+--ignore-scripts: Esta bandera se usa para evitar la ejecución de scripts definidos en los paquetes durante la instalación. Puede ser útil si no deseas que los scripts personalizados de los paquetes se ejecuten al instalarlos.
+
+--audit: Esta bandera se usa para verificar si las dependencias tienen vulnerabilidades conocidas y proporciona información sobre cómo solucionarlas.
+

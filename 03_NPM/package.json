@@ -1,0 +1,17 @@
+{
+  "name": "04_npx",
+  "version": "1.0.0",
+  "description": "Usando npx por primera vez",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Manuel Moreno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "responsimple": "^1.0.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "todocli",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de los fundamentos de node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Manuel Moreno",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "redline": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
